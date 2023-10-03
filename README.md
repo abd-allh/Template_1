@@ -1,5 +1,5 @@
-# Webpage template-1
+# Webpage template one
 
 - using pure **HTML, CS5**
 
-- view demo  [Click Here!](https://abd-allh.github.io/webpage-html-css-template-1/)
+- view demo  [Click Here!](https://abd-allh.github.io/webpage-template-1/)
